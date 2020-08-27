@@ -1,0 +1,6 @@
+#!/bin/bash -x
+
+echo "Enter the year"
+read y
+
+if [ $y %]
